@@ -1,4 +1,6 @@
 # git-test
 Test für Git
 Das ist mein erstes Git-Projekt.
-Noch ein kleiner Test aus VS Code
+Noch ein kleiner Test aus VS Code.
+Und hier noch ein bisschen Text...
+Und noch etwas mehr Text...
